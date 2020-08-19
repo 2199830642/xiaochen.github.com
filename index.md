@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：陈凯博
+#### 求职意向：java工程师
+#### 学校：西安建筑科技大学
+#### 邮箱：2199830642@qq.com
+#### 学历：本科
 
-You can use the [editor on GitHub](https://github.com/2199830642/xiaochen.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育背景
+2017.09-2021.06位于西安建筑科技大学信息管理与信息系统专业学习 
+主修课程 java程序设计、数据库设计与应用、管理信息系统、信息系统开发方法与工具
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 校内荣誉
+在校曾担任班长及团委宣传部委员
+带领班级取得优秀班级称号，
 
-### Markdown
+### 项目经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 项目1：飞Q 局域网即使通信项目2019.8.30-2019.9.15     
+##### 1、项目简介 
+包括用户登录、好友添加、文件发送、即时聊天
+##### 2、主要技术栈 
+java+jdbc
+##### 3、开发工具
+mysql+IntelliJ IDEA
+##### 4、我的主要工作和业绩
+系统的分析、设计、开发
+#### 项目2：小陈旅游后台管理系统项目  2020.7.15-2020.8.16     
+##### 1、项目简介 
+包括用户登录注册、线路收藏、线路检索、权限管理，员工管理，线路管理，订单管理
+##### 2、主要技术栈 
+SSM+Spring+Mybatis+JSP+redis
+##### 3、开发工具
+mysql+IntelliJ IDEA+Tomcat
+##### 4、我的主要工作和业绩：
+系统的分析、设计、开发
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### 技能清单：
+熟练掌握java，html5+css3+JavaScript、JSP、redis以及jedis的应用
+熟练使用mysql数据库进行增删改查、事务管理
+可以熟练地操作maven项目
+可以熟练地使用Mybatis框架，Spring框架
+对JVM虚拟机较为了解
+在GitHub上同步了自己的学习经历以及项目经验
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2199830642/xiaochen.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### 自我评价
+工作认真、态度端正
+乐于交流和分享、阳光、善于寻找问题解决问题、肯吃苦、善于钻研
